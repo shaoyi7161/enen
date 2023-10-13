@@ -10,3 +10,4 @@ pepe
 wusuow
 tipo
 zksyc
+starknet
