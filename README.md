@@ -8,7 +8,7 @@ tixnxnx_78
 tianxiajd
 pepe
 wusuowwwqq
-tipo
+tipo_12
 zksyc
 starknet
 quancheng4S
