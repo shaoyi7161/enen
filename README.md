@@ -12,7 +12,7 @@ tipo_12
 zksyc_654
 starknet_5445
 quancheng4S
-shjiki
+shjiki,7825
 78ujs
 yuyu899
 7861_022
