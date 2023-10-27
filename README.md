@@ -2,7 +2,7 @@
 xuexi,yu252,yu52
 aazaazaxza_088,ui72
 your hu houm_0987
-tingy
+tingy,yu262
 tiantian
 tixnxnx_78
 tianxiajd_234
